@@ -1,0 +1,1 @@
+mystring = "No! Not the Knights who say 'Ni'!
